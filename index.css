@@ -1,0 +1,129 @@
+.navbar{
+    width: 100%;
+    margin-top: 25px;
+    font-size: 15px;
+    margin-left: 30px;
+    word-spacing: 50px;
+}
+.navbar a:nth-of-type(2){
+   color: hsl(115, 75%, 45%);
+   margin-left: 25%;
+}
+.navbar a{
+    color: hsl(0, 33%, 2%);
+}
+.navbar a:hover{
+   color: hsl(0, 33%, 2%);
+}
+.none{
+    display: none;
+}
+#oha{
+    height: 8%;
+    width: 4%;
+    position: absolute;
+    left: 6%;
+    top: 4%;
+}
+.move{
+    margin-left: 30%;
+}
+h1{
+    text-transform: uppercase;
+    margin-top: 30px;
+}
+.we{
+    margin: 10px;
+}
+button{
+    padding: 10px;
+    background-color: green;
+    color: white;
+    margin-top: 30px;
+}
+.trend{
+    text-align: center;
+    text-transform: capitalize;
+    margin-top: 50px;
+    height: 50%;
+}
+#one{
+    width: 50%;
+}
+#two{
+    position: absolute;
+    width: 32%;
+    height: 69%;
+    border-radius: 50%;
+    left: 72%;
+    top: -17%;
+    background-color: #C4C4C4;
+}
+#narnute{
+    height: 65%;
+    width: 55%;
+    position: absolute;
+    left: 10%;
+    top: 25%;
+}
+#leaf{
+    height: 51%;
+    width: 24%;
+    position: absolute;
+    left: 64%;
+    top: 43%;
+}
+#basket{
+    height: 3%;
+    width: 3%;
+    position: absolute;
+    left: 77%;
+    top: 27%;
+}
+#contact{
+    height: 3%;
+    width: 3%;
+    position: absolute;
+    left: 67%;
+    top: 27%;
+}
+#search{
+    height: 3%;
+    width: 3%;
+    position: absolute;
+    left: 57%;
+    top: 27%;
+}
+.flex{
+    display: flex;
+    height: 50%;
+    width: 100%;
+}
+#ellipse{
+    height: 46%;
+    width: 8%;
+    position: absolute;
+    left: 0%;
+    top: 39%;
+}
+
+#sub{
+    font-size: 20px;
+    margin-bottom: 10px;
+    font-weight: 600;
+}
+input{
+    padding: 10px;
+}
+.green{
+    display: flex;
+    padding: 30px;
+    background-color: green;
+    color: white;
+}
+.green div{
+    padding: 70px;
+}
+p{
+    text-align: center;
+}
